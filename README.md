@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohcine</h1>
+<h1 align="center"> I'm Mohcine</h1>
 <h3 align="center">A passionate Fullstack developer from Morocco</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=en-mohcine&label=Profile%20views&color=0e75b6&style=flat" alt="en-mohcine" />
-</p>
+
 
 <img align="right" src="https://catana.dev/assets/landing/coder-6f41032230f6abc3f8a10bdb4e75fe493a9de62d80a7f169a9387247fc81f95c.gif" alt="coder GIF" width="200" />
 
