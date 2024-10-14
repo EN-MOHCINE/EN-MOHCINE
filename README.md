@@ -1,6 +1,6 @@
 <h1 align="center">I write code... sometimes it even works ! </h1>
 
- <!-- // image -->
+ <!-- // image 1 -->
 <img align="right" src="https://catana.dev/assets/landing/coder-6f41032230f6abc3f8a10bdb4e75fe493a9de62d80a7f169a9387247fc81f95c.gif" alt="coder GIF" width="200" />
 
 <h3 align="left">Connect with me:</h3>
