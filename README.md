@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center">I write code... sometimes it even works ! </h1>
 
  <!-- // image 1   -->
@@ -83,3 +87,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=en-mohcine&show_icons=true&locale=en&layout=compact" alt="en-mohcine" /></p>
