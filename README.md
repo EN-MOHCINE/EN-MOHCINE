@@ -23,15 +23,8 @@
   </a>
 </p>
 
----
 
-## ⚡ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,angular,bootstrap,css,express,figma,git,html,js,mongodb,mysql,nodejs,php,python,react,reactnative,sass,tailwind,typescript" alt="Tech Stack" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
