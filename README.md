@@ -26,13 +26,3 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=en-mohcine&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=en-mohcine&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
